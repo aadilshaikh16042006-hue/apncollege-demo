@@ -1,3 +1,3 @@
 # apncollege-demo
-this is my repository<br>
-Author - Aadil N Shaikh 
+this is my repository. <br>
+Author - Aadil N Shaikh.
